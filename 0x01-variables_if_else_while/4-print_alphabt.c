@@ -13,7 +13,8 @@ int main(void)
 	for (Ch = 'a'; Ch <= 'z'; Ch++)
 	{
 	if (Ch != 'e' && Ch != 'q')
-	{	
+	{
+	
 	putchar(Ch);
 
 	}
@@ -23,7 +24,6 @@ int main(void)
 	{
 	putchar('\n');
 	}
-
 
 	return (0);
 }
