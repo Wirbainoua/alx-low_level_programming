@@ -10,11 +10,10 @@ int main(void)
 {
 	int Ch;
 	int CH;
-
+	
 	for (Ch = 'a'; Ch <= 'z'; Ch++)
 	{	
 		putchar(Ch);
-
 
 
 	}
@@ -27,3 +26,4 @@ int main(void)
 
 	return (0);
 }
+
