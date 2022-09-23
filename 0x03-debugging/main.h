@@ -1,7 +1,9 @@
 #ifndef MAIN_H
+
 #define MAIN_H
 
 #include <stdio.h>
+
 
 void possitive_or_negative(int i);
 int lagest_number(int, int, int);
